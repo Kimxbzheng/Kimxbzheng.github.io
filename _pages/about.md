@@ -12,7 +12,7 @@ I am now an Assistant Professor (Principal Investigator) in Computer Science at 
 
 My research interests focus on Bioinformatics and Computational Biology, including the integration of omics data, the regulation of gene expression in cancer, and disease diagnosis using machine learning and deep learning techniques. I proposed individualized pairwise analysis of gene expression (iPAGE) and identified a series of gene pair signatures including meGPS and bvnGPS. I am passionate about continuing to work on interesting and useful projects that can contribute to healthcare
 
-**I am currently looking for Research Assistants, Postdoctoral Fellows, and visiting students to join my team. If you are interested, please feel free to send me an email!**
+**I am currently looking for Research Assistants, Postdoctoral Fellows, and Visiting Students. If you are interested, please feel free to send me an email!**
 
 Research Interests
 ======
