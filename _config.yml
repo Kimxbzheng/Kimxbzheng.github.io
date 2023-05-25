@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Zheng Xubin"
-  avatar           : "prof_pic.jpg"
-  bio              : "Assistant Professor, Computer Science, Great Bay University"
+  avatar           : "pic.jpg"
+  bio              : "Assistant Professor,\nComputer Science,\nGreat Bay University"
   location         : "Guangdong, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
