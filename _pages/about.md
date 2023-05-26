@@ -24,4 +24,3 @@ Research Interests
 My Research Path
 ======
 ![research_path](/research_path.png)
-< img src="research_path.png" width = "500" height = "300" alt="research_path.png" align=center />
