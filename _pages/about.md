@@ -14,13 +14,13 @@ My research interests focus on Bioinformatics and Computational Biology, includi
 
 **I am currently looking for Research Assistants, Postdoctoral Fellows, and Visiting Students. If you are interested, please feel free to send me an email!**
 
-Research Interests
+Research interests
 ======
 * Bioinformatics
 * Machine learning and Deep learning
 * Disease diagnosis
 * Data integration
 
-My Research Path
+My research path
 ======
 ![research_path](https://github.com/Kimxbzheng/test.github.io/blob/master/images/research_path.png?raw=true)
