@@ -6,7 +6,7 @@ excerpt: # 'This paper is about the number 1. The number 2 is left for future wo
 date: 2020-07-02
 venue: 'Journal 1'
 paperurl: 'https://doi.org/10.1002/ctm2.123'
-citation: >
+citation: |
 'Xueyan Liu#, **Xubin Zheng#**, Jun Wang#, Ning Zhang, Kwong-Sak Leung, Xiufeng Ye\*, and Lixin Cheng\*.  
 A long non-coding RNA signature for diagnostic prediction of sepsis upon ICU admission.  
 ***Clinical and Translational Medicine, 2020.***'
