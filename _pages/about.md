@@ -20,3 +20,7 @@ Research Interests
 * Machine learning and Deep learning
 * Disease diagnosis
 * Data integration
+
+My Research Path
+======
+![research path](/images/research_path.png "My Research Path")
