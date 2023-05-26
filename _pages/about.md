@@ -23,4 +23,4 @@ Research Interests
 
 My Research Path
 ======
-![research_path](/research_path.png)
+![research_path](/images/research_path.png)
