@@ -23,4 +23,4 @@ Research interests
 
 My research path
 ======
-![research-path.png](https://wx2.sinaimg.cn/mw2000/79904e7cgy1hec8m0njhyj20p40grwk0.jpg)
+![research-path.png](https://img-blog.csdnimg.cn/151e0909ce5540ef8163a06527eb5d93.png)
