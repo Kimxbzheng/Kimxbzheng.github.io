@@ -23,4 +23,4 @@ Research interests
 
 My research path
 ======
-![research-path.png](https://img-blog.csdnimg.cn/151e0909ce5540ef8163a06527eb5d93.png)
+![research-path.png](https://github.com/Kimxbzheng/Kimxbzheng.github.io/blob/master/images/research_path.png?raw=true)
