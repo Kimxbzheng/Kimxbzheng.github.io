@@ -12,7 +12,7 @@ Dr. Xubin Zheng is an Assistant Professor (Principal Investigator) in Computer S
 
 His research interests focus on AI for Bioinformatics and Computational Biology, including the integration of spatial multimodal omics data and AI virtual cell. His work has appeared in top journals and conferences across bioinformatics and artificial intelligence, including *Nature Communications*, *Advanced Science*, *Genome Research*, *Bioinformatics*, *KDD*, *RECOMB*, *ICLR*, and *AAAI*.
 
-**I am currently looking for PhD Students, Research Assistants, Postdoctoral Fellows, and Visiting Students. If you are interested, please feel free to send me an email!**
+**I am currently looking for PhD Students (27Fall 依托哈工大深圳、中山大学、北师大浸会联培), Research Assistants, Postdoctoral Fellows (依托中科大), and Visiting Students. If you are interested, please feel free to send me an email!**
 
 Research interests
 ======
